@@ -1,0 +1,154 @@
+DVFreeThread - CFMachPortCreateWithPort hack = 0x54e190, fPowerNotifyPort= 0x54f470
+DVFreeThread - CFMachPortCreateWithPort hack = 0x5553e0, fPowerNotifyPort= 0x554e00
+DVFreeThread - CFMachPortCreateWithPort hack = 0x8384c0, fPowerNotifyPort= 0x83e9b0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x5556d0, fPowerNotifyPort= 0x555160
+DVFreeThread - CFMachPortCreateWithPort hack = 0x842650, fPowerNotifyPort= 0x83de90
+OF_WARNING: No camera settings to load
+Camera Mode
+Asked for 320 by 240 - actual size is 320 by 240 
+
+Calibration: 42.000000, 198.000000
+Calibration: 118.000000, 196.000000
+Calibration: 192.000000, 196.000000
+Calibration: 267.000000, 195.000000
+Calibration: 49.000000, 145.000000
+Calibration: 119.000000, 146.000000
+Calibration: 190.000000, 145.000000
+Calibration: 259.000000, 144.000000
+Calibration: 54.000000, 100.000000
+Calibration: 122.000000, 99.000000
+Calibration: 188.000000, 100.000000
+Calibration: 253.000000, 100.000000
+Calibration: 60.000000, 59.000000
+Calibration: 123.000000, 58.000000
+Calibration: 186.000000, 59.000000
+Calibration: 248.000000, 59.000000
+Calibration is setup!
+
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/absSubtract.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/subtract.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/contrast.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/threshold.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/copy.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/grayScale.fs
+Starting in standalone mode...
+
+Starting in full mode...
+
+Community Core Vision is setup!
+
+Video Mode
+DVFreeThread - CFMachPortCreateWithPort hack = 0xd39cd0, fPowerNotifyPort= 0xd3e4d0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x551f70, fPowerNotifyPort= 0x554a10
+DVFreeThread - CFMachPortCreateWithPort hack = 0x8207b0, fPowerNotifyPort= 0x83e9b0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x840d00, fPowerNotifyPort= 0x84bf50
+DVFreeThread - CFMachPortCreateWithPort hack = 0x553360, fPowerNotifyPort= 0x57dba0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x84ae00, fPowerNotifyPort= 0x847600
+OF_WARNING: No camera settings to load
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+OF_WARNING: in allocate, reallocating a ofxCvImage
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/absSubtract.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Subtraction
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/subtract.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Contrast
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/contrast.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Gaussian Blur
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/gaussH.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Threshold
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/threshold.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:Copy
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/copy.fs
+Frame buffer status: 36053
+Loading Filter...
+Filter Name:GrayScale
+loading Shaders vs:(null), gs:(null), fs:../../../data/shaders/grayScale.fs
+DVFreeThread - CFMachPortCreateWithPort hack = 0x55ae90, fPowerNotifyPort= 0x55a2f0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x8481e0, fPowerNotifyPort= 0x840e80
+DVFreeThread - CFMachPortCreateWithPort hack = 0x840e30, fPowerNotifyPort= 0x840b40
+DVFreeThread - CFMachPortCreateWithPort hack = 0x840e30, fPowerNotifyPort= 0x843a70
+OF_WARNING: No camera settings to load
+DVFreeThread - CFMachPortCreateWithPort hack = 0x820720, fPowerNotifyPort= 0x83e9b0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x8119e0, fPowerNotifyPort= 0x83dc10
+DVFreeThread - CFMachPortCreateWithPort hack = 0x8111a0, fPowerNotifyPort= 0x811290
+DVFreeThread - CFMachPortCreateWithPort hack = 0x552ba0, fPowerNotifyPort= 0x552b80
+OF_WARNING: No camera settings to load
+DVFreeThread - CFMachPortCreateWithPort hack = 0x55ae90, fPowerNotifyPort= 0x550560
+DVFreeThread - CFMachPortCreateWithPort hack = 0x849bd0, fPowerNotifyPort= 0x816300
+DVFreeThread - CFMachPortCreateWithPort hack = 0x849b00, fPowerNotifyPort= 0x83a340
+DVFreeThread - CFMachPortCreateWithPort hack = 0x849820, fPowerNotifyPort= 0x849d10
+OF_WARNING: No camera settings to load
+DVFreeThread - CFMachPortCreateWithPort hack = 0x525bd0, fPowerNotifyPort= 0x5926f0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x848440, fPowerNotifyPort= 0x8484e0
+DVFreeThread - CFMachPortCreateWithPort hack = 0x849bb0, fPowerNotifyPort= 0x849b90
+DVFreeThread - CFMachPortCreateWithPort hack = 0x5985f0, fPowerNotifyPort= 0x53e240
+OF_WARNING: No camera settings to load
+Vision module has exited!
