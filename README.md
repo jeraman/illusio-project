@@ -1,4 +1,6 @@
 #Illusio Project
+![Image] (image.png)
+
 [jeraman](http://jeraman.info), 2011
 
 --
@@ -23,11 +25,11 @@ http://jeraman.info/​illusio
 ##How to Run
 Follow these instructions in order:
 
-1. [Interface!](interface/README.md);
+1. [Interface](interface/README.md);
 
-2. [Looper!](looper/README.md);
+2. [Looper](looper/README.md);
 
-3. [Tracker!](tracker/README.md).
+3. [Tracker](tracker/README.md).
 
 #Contact
 jbcj [at] cin.ufpe.br
