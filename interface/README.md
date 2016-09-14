@@ -1,11 +1,7 @@
-/////////////////////////////////////////////////
-/////////////////////////////////////////////////
-// ILLUSIO INTERFACE
-/////////////////////////////////////////////////
-/////////////////////////////////////////////////
-// illusio's visual GUI
-/////////////////////////////////////////////////
+#Running the Ilusio Interface
+GUI module of illusio project developed in processing 
 
-INSTRUCTIONS
-1. if you want to edit the source code, please, you the right processing IDE compatible with Illusio's code. it is available inside processing IDE folder;
+##Instructions
+You only need to run the Illusio.app. 
 
+If you want to edit the source code, you need to use the Processing IDE version 1.5, also available in this folder.
