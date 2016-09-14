@@ -1,5 +1,5 @@
 #Illusio Project
-![Image] (image.png)
+![Image] (image.jpg)
 
 [jeraman](http://jeraman.info), 2011
 
