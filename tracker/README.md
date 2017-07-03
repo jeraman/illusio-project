@@ -1,8 +1,8 @@
 
-#Setting the finger tracker
+# Setting the finger tracker
 For this, we use the Community Core Vision (CCV)—software that tracks the touch in the table and converts to TUIO message
 
-##Instructions
+## Instructions
 1. In case you're using the PS3 EYe, you might want install the proper drivers (read [this](macam/README.md) for details);
 
 2. run the Community Core Vision (CCV) app;
